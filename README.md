@@ -8,4 +8,6 @@ This project focuses on generating and canceling noise to preserve the integrity
 
 During playback, additional noise is introduced by pressing two random piano keys simultaneously. The primary objective is to develop a method to cancel out the noise by working in the frequency domain, separating each frequency and ensuring the original song can be clearly extracted.
 
+## Note
+The code is proprietary and not intended for copying or redistribution.
 
